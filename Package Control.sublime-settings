@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Diffy",
+		"Emmet",
+		"FavoriteFiles",
+		"HTML-CSS-JS Prettify",
+		"MarkdownPreview",
+		"Origami",
+		"Package Control",
+		"PostgreSQL Syntax Highlighting",
+		"PowerShell",
+		"R-Box",
+		"VBDotNet",
+		"VBScript",
+		"WordCount",
+		"Wrap Plus"
+	]
+}

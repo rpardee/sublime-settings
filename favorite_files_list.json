@@ -1,0 +1,42 @@
+{
+    "files": [
+        {
+            "alias": "StdVars_Teradata.sas",
+            "file": "\\\\ghcmaster\\ghri\\Warehouse\\sasdata\\CRN_VDW\\lib\\StdVars_Teradata.sas"
+        },
+        {
+            "alias": "StdVars.sas",
+            "file": "\\\\ghcmaster\\ghri\\Warehouse\\sasdata\\CRN_VDW\\lib\\StdVars.sas"
+        },
+        {
+            "alias": "deleteme.sas",
+            "file": "C:\\Users\\pardre1\\Desktop\\deleteme.sas"
+        },
+        {
+            "alias": "globals.sas",
+            "file": "\\\\ghcmaster\\ghri\\Warehouse\\sas\\Includes\\globals.sas"
+        },
+        {
+            "alias": "remoteactivate.sas",
+            "file": "\\\\home\\pardre1\\SAS\\Scripts\\remoteactivate.sas"
+        },
+        {
+            "alias": "vdw_sync_macros.sas",
+            "file": "\\\\ghcmaster\\ghri\\Warehouse\\management\\Programs\\DataWarehouseMgt\\vdw_sync_macros.sas"
+        },
+        {
+            "alias": "StdVars_JIFFI.sas",
+            "file": "\\\\ghcmaster\\ghri\\Warehouse\\sasdata\\CRN_VDW\\lib\\StdVars_JIFFI.sas"
+        },
+        {
+            "alias": "Microsoft.PowerShell_profile.ps1",
+            "file": "C:\\Users\\pardre1\\Documents\\WindowsPowerShell\\Microsoft.PowerShell_profile.ps1"
+        },
+        {
+            "alias": "standard_macros.sas",
+            "file": "C:\\Users\\pardre1\\Documents\\vdw\\macros\\standard_macros.sas"
+        }
+    ],
+    "groups": {},
+    "version": 2
+}
